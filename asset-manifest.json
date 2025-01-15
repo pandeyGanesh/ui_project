@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ui_project/static/css/main.a6c68233.css",
+    "main.js": "/ui_project/static/js/main.64a6e65e.js",
+    "static/media/buzzBridgeLogo.jpeg": "/ui_project/static/media/buzzBridgeLogo.cfbb8c14cd9dedd5239f.jpeg",
+    "static/media/logo.svg": "/ui_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ui_project/index.html",
+    "main.a6c68233.css.map": "/ui_project/static/css/main.a6c68233.css.map",
+    "main.64a6e65e.js.map": "/ui_project/static/js/main.64a6e65e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6c68233.css",
+    "static/js/main.64a6e65e.js"
+  ]
+}
